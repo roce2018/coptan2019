@@ -22,7 +22,7 @@ A7MD.on("guildMemberAdd", member => {
 
 
 
-     https://discord.gg/5Y8qCkx
+     https://discord.gg/NfsYUjq
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
 }).catch(console.error)
