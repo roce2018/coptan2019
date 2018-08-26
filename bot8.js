@@ -872,7 +872,7 @@ client.on('message', message => {
 client.on('message', message => {
   if (true) {
 if (message.content === '!invite') {
-      message.author.send(' رابط البوت |  https://discordapp.com/api/oauth2/authorize?client_id=481723034965901314&permissions=2146958839&scope=bot').catch(e => console.log(e.stack));
+      message.author.send(' رابط البوت |  https://discordapp.com/api/oauth2/authorize?client_id=483166265473630209&permissions=8&scope=bot').catch(e => console.log(e.stack));
 
     }
    } 
@@ -1321,4 +1321,4 @@ client.on('message', msg => {
 });
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN8);
