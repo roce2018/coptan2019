@@ -416,8 +416,6 @@ client.on("message", message => {
 !invite | القسم الاول لي اضافه البوت 
 
 !support| القسم الثاني  الدعم الفني و المساعدة
-قسم الثالث مصمم البوت iTzAnan_Over#3412
-
 
 
 
